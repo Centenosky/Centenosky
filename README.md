@@ -1,6 +1,7 @@
 # Diego Centeno
-
 ### Hi there 👋
+
+<img align='left' src="https://media.giphy.com/media/4MwP0n2iPbkcM/giphy.gif" width="230">
 
 
 
